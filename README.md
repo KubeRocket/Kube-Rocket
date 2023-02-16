@@ -1,1 +1,1 @@
-KubeRocet is a container cloud management platform that supports multiple clusters, multiple clouds, hybrid clouds, and multiple tenants. It is also a devops management platform. Based on Jenkins agent, it makes your building, testing and publishing easy.
+The kuberocket is a container cloud management platform that supports multiple clusters, multiple clouds, hybrid clouds, and multiple tenants. It is also a devops management platform. Based on Jenkins agent, it makes your building, testing and publishing easy.
